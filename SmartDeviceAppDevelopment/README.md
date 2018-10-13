@@ -1,1 +1,1 @@
-# LectureSourceCodes
+# Smart Device Application Development
